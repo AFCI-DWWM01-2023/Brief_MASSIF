@@ -5,7 +5,8 @@ Vous pouvez faire l'intégration Web en Less ou en CSS (A vous de voir)
 
 * Format PC
 * Format Tablette
-* Format Mobile
+* Format Mobile  
+
 ![Massif](profile/img/Massif-Desktop.png)&nbsp;&nbsp;
 
 ## DeadLine : Vendredi 07 Avril 2023
